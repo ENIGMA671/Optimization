@@ -1,0 +1,14 @@
+c:\users\1282-19\documents\visual studio 2015\Projects\UnitTestDemo\UnitTestDemo\bin\Debug\UnitTestDemo.exe.config
+c:\users\1282-19\documents\visual studio 2015\Projects\UnitTestDemo\UnitTestDemo\bin\Debug\UnitTestDemo.exe
+c:\users\1282-19\documents\visual studio 2015\Projects\UnitTestDemo\UnitTestDemo\bin\Debug\UnitTestDemo.pdb
+c:\users\1282-19\documents\visual studio 2015\Projects\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.csprojResolveAssemblyReference.cache
+c:\users\1282-19\documents\visual studio 2015\Projects\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.exe
+c:\users\1282-19\documents\visual studio 2015\Projects\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.pdb
+C:\Users\serge\Desktop\UnitTestDemo\UnitTestDemo\bin\Debug\UnitTestDemo.exe.config
+C:\Users\serge\Desktop\UnitTestDemo\UnitTestDemo\bin\Debug\UnitTestDemo.exe
+C:\Users\serge\Desktop\UnitTestDemo\UnitTestDemo\bin\Debug\UnitTestDemo.pdb
+C:\Users\serge\Desktop\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.csproj.AssemblyReference.cache
+C:\Users\serge\Desktop\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\serge\Desktop\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.csproj.CoreCompileInputs.cache
+C:\Users\serge\Desktop\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.exe
+C:\Users\serge\Desktop\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.pdb

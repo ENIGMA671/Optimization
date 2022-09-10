@@ -1,0 +1,23 @@
+c:\users\1282-19\documents\visual studio 2015\Projects\UnitTestDemo\UnitTestDemoTests\bin\Debug\UnitTestDemoTests.dll
+c:\users\1282-19\documents\visual studio 2015\Projects\UnitTestDemo\UnitTestDemoTests\bin\Debug\UnitTestDemoTests.pdb
+c:\users\1282-19\documents\visual studio 2015\Projects\UnitTestDemo\UnitTestDemoTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\1282-19\documents\visual studio 2015\Projects\UnitTestDemo\UnitTestDemoTests\bin\Debug\UnitTestDemo.exe
+c:\users\1282-19\documents\visual studio 2015\Projects\UnitTestDemo\UnitTestDemoTests\bin\Debug\UnitTestDemo.pdb
+c:\users\1282-19\documents\visual studio 2015\Projects\UnitTestDemo\UnitTestDemoTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\1282-19\documents\visual studio 2015\Projects\UnitTestDemo\UnitTestDemoTests\obj\Debug\UnitTestDemoTests.dll
+c:\users\1282-19\documents\visual studio 2015\Projects\UnitTestDemo\UnitTestDemoTests\obj\Debug\UnitTestDemoTests.pdb
+C:\Users\1282-19\Documents\Visual Studio 2015\Projects\UnitTestDemo\UnitTestDemoTests\bin\Debug\UnitTestDemo.exe.config
+C:\Users\1282-19\Documents\Visual Studio 2015\Projects\UnitTestDemo\UnitTestDemoTests\obj\Debug\UnitTestDemoTests.csprojAssemblyReference.cache
+C:\Users\1282-19\Documents\Visual Studio 2015\Projects\UnitTestDemo\UnitTestDemoTests\obj\Debug\UnitTestDemoTests.csproj.CopyComplete
+C:\Users\serge\Desktop\UnitTestDemo\UnitTestDemoTests\obj\Debug\UnitTestDemoTests.csproj.AssemblyReference.cache
+C:\Users\serge\Desktop\UnitTestDemo\UnitTestDemoTests\obj\Debug\UnitTestDemoTests.csproj.CoreCompileInputs.cache
+C:\Users\serge\Desktop\UnitTestDemo\UnitTestDemoTests\obj\Debug\UnitTestDemoTests.dll
+C:\Users\serge\Desktop\UnitTestDemo\UnitTestDemoTests\obj\Debug\UnitTestDemoTests.pdb
+C:\Users\serge\Desktop\UnitTestDemo\UnitTestDemoTests\bin\Debug\UnitTestDemoTests.dll
+C:\Users\serge\Desktop\UnitTestDemo\UnitTestDemoTests\bin\Debug\UnitTestDemoTests.pdb
+C:\Users\serge\Desktop\UnitTestDemo\UnitTestDemoTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\serge\Desktop\UnitTestDemo\UnitTestDemoTests\bin\Debug\UnitTestDemo.exe
+C:\Users\serge\Desktop\UnitTestDemo\UnitTestDemoTests\bin\Debug\UnitTestDemo.pdb
+C:\Users\serge\Desktop\UnitTestDemo\UnitTestDemoTests\bin\Debug\UnitTestDemo.exe.config
+C:\Users\serge\Desktop\UnitTestDemo\UnitTestDemoTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\serge\Desktop\UnitTestDemo\UnitTestDemoTests\obj\Debug\UnitTestDemoTests.csproj.CopyComplete
